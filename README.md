@@ -2,8 +2,8 @@
 I am currently learning a lot of programming things.<br>Ask me anything you want, if I can answer you, I will be happy to do so.<br>I have a 3D video game on Steam made with two colleagues:<br>https://store.steampowered.com/app/2472570/Under_the_Water_Depths/<br>
 [![Under The Water Depths](https://cdn.akamai.steamstatic.com/steam/apps/2472570/header.jpg?t=1689601991)](https://www.youtube.com/watch?v=o-gLhRt1nfI "Youtube Trailer")
 <br>I have another 2D video game in Ichio, in the profile of one of the three members of the project:<br>
-[![Blindness Inferno](https://img.itch.zone/aW1nLzExMTA2MjA3LnBuZw==/original/vbtMsU.png)](https://carlos-roig-garcia.itch.io/blidnessinferno/ "Ichio's profile")
-
+[![Blindness Inferno](https://img.itch.zone/aW1nLzExMTA2MjA3LnBuZw==/original/vbtMsU.png)](https://carlos-roig-garcia.itch.io/blidnessinferno/ "Ichio's profile")<br>
+I was working on this website (Full Stack) for six months: https://www.datapta.com/finasset/macroeconomy
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lipuigmi) 
 

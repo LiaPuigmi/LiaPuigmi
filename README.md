@@ -1,7 +1,6 @@
 # 💫 About Me:
 Actualmente estoy aprendiendo muchas cosas de programación.<br>Pregúntame lo que quieras, si puedo responderte estaré encantado de hacerlo.<br>Tengo un videojuego en Steam hecho con dos compañeros: https://store.steampowered.com/app/2472570/Under_the_Water_Depths/
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lipuigmi) 
 

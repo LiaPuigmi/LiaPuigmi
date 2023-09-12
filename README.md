@@ -1,9 +1,9 @@
 # 💫 About Me:
-I am currently learning a lot of programming things.<br>Ask me anything you want, if I can answer you, I will be happy to do so.<br>I have a 3D video game on Steam made with two colleagues:<br>https://store.steampowered.com/app/2472570/Under_the_Water_Depths/<br>
+🧑‍💻: I am currently learning a lot of programming things.<br> :speech_balloon: Ask me anything you want, if I can answer you, I will be happy to do so.<br> :video_game: I have a 3D video game on Steam made with two colleagues:<br>https://store.steampowered.com/app/2472570/Under_the_Water_Depths/<br>
 [![Under The Water Depths](https://cdn.akamai.steamstatic.com/steam/apps/2472570/header.jpg?t=1689601991)](https://www.youtube.com/watch?v=o-gLhRt1nfI "Youtube Trailer")
-<br>I have another 2D video game in Ichio, in the profile of one of the three members of the project:<br>
+<br> :video_game: I have another 2D video game in Ichio, in the profile of one of the three members of the project:<br>
 [![Blindness Inferno](https://img.itch.zone/aW1nLzExMTA2MjA3LnBuZw==/original/vbtMsU.png)](https://carlos-roig-garcia.itch.io/blidnessinferno/ "Ichio's profile")<br>
-I was working on this website (Full Stack) for six months: https://www.datapta.com/finasset/macroeconomy
+:chart_with_upwards_trend: I was working on this website (Full Stack) for six months: https://www.datapta.com/finasset/macroeconomy
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lipuigmi) 
 
@@ -12,8 +12,11 @@ I was working on this website (Full Stack) for six months: https://www.datapta.c
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LiaPuigmi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LiaPuigmi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LiaPuigmi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LiaPuigmi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
+# :art: Krita Designs:
+![Person Design](./Krita_PersonDraw.png)
+![Landscape Design](./Krita__LandscapeDesign.png)
 ---
 [![](https://visitcount.itsvg.in/api?id=LiaPuigmi&icon=7&color=1)](https://visitcount.itsvg.in)
 
